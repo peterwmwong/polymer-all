@@ -28,7 +28,7 @@
 	url = https://github.com/Polymer/HTMLImports.git
 [submodule "mdv"]
 	path = mdv
-	url = https://github.com/Polymer/mdv.git
+	url = https://github.com/peterwmwong/mdv.git
 [submodule "ShadowDOM"]
 	path = ShadowDOM
 	url = https://github.com/Polymer/ShadowDOM.git
