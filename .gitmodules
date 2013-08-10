@@ -41,3 +41,15 @@
 [submodule "web-animations-js"]
 	path = web-animations-js
 	url = https://github.com/web-animations/web-animations-js.git
+[submodule "ObserveJS"]
+	path = ObserveJS
+	url = https://github.com/Polymer/ObserveJS.git
+[submodule "PolymerExpressions"]
+	path = PolymerExpressions
+	url = https://github.com/Polymer/PolymerExpressions.git
+[submodule "Node-bind"]
+	path = Node-bind
+	url = https://github.com/Polymer/Node-bind.git
+[submodule "Template-instantiation"]
+	path = Template-instantiation
+	url = https://github.com/Polymer/Template-instantiation.git
