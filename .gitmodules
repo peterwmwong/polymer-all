@@ -50,7 +50,7 @@
 	path = NodeBind
 	url = https://github.com/Polymer/NodeBind.git
 	branch = master
-[submodule "TemplateInstances"]
-	path = TemplateInstances
-	url = https://github.com/Polymer/TemplateInstances.git
+[submodule "TemplateBinding"]
+	path = TemplateBinding
+	url = https://github.com/Polymer/TemplateBinding.git
 	branch = master
