@@ -26,9 +26,6 @@
 [submodule "HTMLImports"]
 	path = HTMLImports
 	url = https://github.com/Polymer/HTMLImports.git
-[submodule "mdv"]
-	path = mdv
-	url = https://github.com/peterwmwong/mdv.git
 [submodule "ShadowDOM"]
 	path = ShadowDOM
 	url = https://github.com/Polymer/ShadowDOM.git
@@ -41,3 +38,19 @@
 [submodule "web-animations-js"]
 	path = web-animations-js
 	url = https://github.com/web-animations/web-animations-js.git
+[submodule "observe-js"]
+	path = observe-js
+	url = https://github.com/Polymer/observe-js.git
+	branch = master
+[submodule "polymer-expressions"]
+	path = polymer-expressions
+	url = https://github.com/Polymer/polymer-expressions.git
+	branch = master
+[submodule "NodeBind"]
+	path = NodeBind
+	url = https://github.com/Polymer/NodeBind.git
+	branch = master
+[submodule "TemplateBinding"]
+	path = TemplateBinding
+	url = https://github.com/Polymer/TemplateBinding.git
+	branch = master
