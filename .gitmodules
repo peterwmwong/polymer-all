@@ -54,3 +54,6 @@
 	path = TemplateBinding
 	url = https://github.com/Polymer/TemplateBinding.git
 	branch = master
+[submodule "WeakMap"]
+	path = WeakMap
+	url = https://github.com/Polymer/WeakMap.git
